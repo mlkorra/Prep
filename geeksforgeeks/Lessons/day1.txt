@@ -1,0 +1,20 @@
+
+
+/*Hello This is a Repository to store all the Lessons on that day*/
+
+Date : 6th January 2018
+
+Lessons :
+
+
+1.0LL is used with another long long int  in max(0,somelongint_variable)
+
+2.Use lowerbounds in cpp as binary search
+
+3. a.data < b.data when used in custom function refers to Decreasing function
+
+4. In the same way,when a.data > b.data refers to Increasing function.
+
+5. Usage of Struct's in Problems.
+
+

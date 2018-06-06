@@ -1,0 +1,15 @@
+Date : 13th January 2017
+
+1. XOR  Operation between numbers : a^b
+
+ 1. Helps to swap two numbers x,y :
+
+    y = x^y
+    x = x^y
+    y = y^x    
+
+2. Using XOR for finding the missing number in 2n+1 Problem
+
+3. Also in Missing Numbers Problem,or such problem which involves arrays,always check for the overflow.
+
+4.  	
