@@ -20,8 +20,7 @@ int main()
         /* Initialization */    
         for(i=1;i<=v;i++){
             dp[i] = INT_MAX;
-        }
-        
+        }        
         
         int sub_res;       // sub result    
         for(i=1;i<=v;i++){
@@ -37,4 +36,4 @@ int main()
         cout << dp[v] << endl;
     }
     return 0;
-}
+}   
